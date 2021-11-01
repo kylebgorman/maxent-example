@@ -1,0 +1,9 @@
+-features	features.txt
+-complementClasses
+-projections	projections.txt
+-corpus	corpus.txt
+-select	
+-train	
+-minGain	100.0
+-l2	0.00001
+-test	test.txt

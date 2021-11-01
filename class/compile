@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -x
+
+shopt -s globstar
+jar cvfe ./maxent.jar edu.jhu.maxent.Maxent **/*.class
